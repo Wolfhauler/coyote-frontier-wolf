@@ -1,0 +1,256 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekasyndi",
+            "directions": 4
+        },
+        {
+            "name": "mekasyndi-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasyndi-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasyndi-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.08,
+                    0.08
+                ]
+            ]
+        },
+        {
+            "name": "mekasyndi_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasyndi_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasyndi_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tsyndi",
+            "directions": 4
+        },
+        {
+            "name": "k4tsyndi-rest"
+        },
+        {
+            "name": "k4tsyndi-tipped"
+        },
+        {
+            "name": "k4tsyndi-wreck"
+        },
+        {
+            "name": "k4tsyndi_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tsyndi_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tsyndi_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekasyndi",
+            "directions": 4
+        },
+        {
+            "name": "fmekasyndi-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekasyndi-tipped"
+        },
+        {
+            "name": "fmekasyndi-wreck"
+        },
+        {
+            "name": "fmekasyndi_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekasyndi_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekasyndi_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekasyndi",
+            "directions": 4
+        },
+        {
+            "name": "mmekasyndi-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekasyndi-tipped"
+        },
+        {
+            "name": "mmekasyndi-wreck"
+        },
+        {
+            "name": "mmekasyndi_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekasyndi_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekasyndi_e_r",
+            "directions": 4
+        }
+    ]
+}

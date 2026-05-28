@@ -1,0 +1,281 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekaengi",
+            "directions": 4
+        },
+        {
+            "name": "mekaengi-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekaengi-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekaengi-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekaengi_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekaengi_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekaengi_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tengi",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi-rest"
+        },
+        {
+            "name": "k4tengi-tipped"
+        },
+        {
+            "name": "k4tengi-wreck"
+        },
+        {
+            "name": "k4tengi_alt1",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_alt1-rest"
+        },
+        {
+            "name": "k4tengi_alt1-tipped"
+        },
+        {
+            "name": "k4tengi_alt1-wreck"
+        },
+        {
+            "name": "k4tengi_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_e_r",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_alt1_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_alt1_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tengi_alt1_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekaeng",
+            "directions": 4
+        },
+        {
+            "name": "fmekaeng-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekaeng-tipped"
+        },
+        {
+            "name": "fmekaeng-wreck"
+        },
+        {
+            "name": "fmekaeng_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekaeng_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekaeng_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekaeng",
+            "directions": 4
+        },
+        {
+            "name": "mmekaeng-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekaeng-tipped"
+        },
+        {
+            "name": "mmekaeng-wreck"
+        },
+        {
+            "name": "mmekaeng_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekaeng_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekaeng_e_r",
+            "directions": 4
+        }
+    ]
+}

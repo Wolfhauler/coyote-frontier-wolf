@@ -1,0 +1,281 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekacargo",
+            "directions": 4
+        },
+        {
+            "name": "mekacargo-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekacargo-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekacargo-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekacargo_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekacargo_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekacargo_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tcargo",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo-rest"
+        },
+        {
+            "name": "k4tcargo-tipped"
+        },
+        {
+            "name": "k4tcargo-wreck"
+        },
+        {
+            "name": "k4tcargo_alt1",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_alt1-rest"
+        },
+        {
+            "name": "k4tcargo_alt1-tipped"
+        },
+        {
+            "name": "k4tcargo_alt1-wreck"
+        },
+        {
+            "name": "k4tcargo_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_e_r",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_alt1_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_alt1_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tcargo_alt1_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekacargo",
+            "directions": 4
+        },
+        {
+            "name": "fmekacargo-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekacargo-tipped"
+        },
+        {
+            "name": "fmekacargo-wreck"
+        },
+        {
+            "name": "fmekacargo_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekacargo_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekacargo_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekacargo",
+            "directions": 4
+        },
+        {
+            "name": "mmekacargo-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekacargo-tipped"
+        },
+        {
+            "name": "mmekacargo-wreck"
+        },
+        {
+            "name": "mmekacargo_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekacargo_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekacargo_e_r",
+            "directions": 4
+        }
+    ]
+}

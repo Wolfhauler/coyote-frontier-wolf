@@ -1,0 +1,284 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekasec",
+            "directions": 4,
+            "delays": [
+                [
+                    1,
+                    0.1,
+                    0.1,
+                    1
+                ],
+                [
+                    1,
+                    0.1,
+                    0.1,
+                    1
+                ],
+                [
+                    1,
+                    0.1,
+                    0.1,
+                    1
+                ],
+                [
+                    1,
+                    0.1,
+                    0.1,
+                    1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.25,
+                    0.1,
+                    0.1,
+                    1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekasec_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tsec",
+            "directions": 4
+        },
+        {
+            "name": "k4tsec-rest"
+        },
+        {
+            "name": "k4tsec-tipped"
+        },
+        {
+            "name": "k4tsec-wreck"
+        },
+        {
+            "name": "k4tsec_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tsec_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tsec_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekasec",
+            "directions": 4
+        },
+        {
+            "name": "fmekasec-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekasec-tipped"
+        },
+        {
+            "name": "fmekasec-wreck"
+        },
+        {
+            "name": "fmekasec_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekasec_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekasec_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekasec",
+            "directions": 4
+        },
+        {
+            "name": "mmekasec-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekasec-tipped"
+        },
+        {
+            "name": "mmekasec-wreck"
+        },
+        {
+            "name": "mmekasec_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekasec_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekasec_e_r",
+            "directions": 4
+        }
+    ]
+}

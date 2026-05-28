@@ -1,0 +1,256 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekapeace",
+            "directions": 4
+        },
+        {
+            "name": "mekapeace-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekapeace-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekapeace-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekapeace_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekapeace_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekapeace_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tpeace",
+            "directions": 4
+        },
+        {
+            "name": "k4tpeace-rest"
+        },
+        {
+            "name": "k4tpeace-tipped"
+        },
+        {
+            "name": "k4tpeace-wreck"
+        },
+        {
+            "name": "k4tpeace_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tpeace_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tpeace_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekapeace",
+            "directions": 4
+        },
+        {
+            "name": "fmekapeace-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekapeace-tipped"
+        },
+        {
+            "name": "fmekapeace-wreck"
+        },
+        {
+            "name": "fmekapeace_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekapeace_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekapeace_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekapeace",
+            "directions": 4
+        },
+        {
+            "name": "mmekapeace-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekapeace-tipped"
+        },
+        {
+            "name": "mmekapeace-wreck"
+        },
+        {
+            "name": "mmekapeace_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekapeace_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekapeace_e_r",
+            "directions": 4
+        }
+    ]
+}

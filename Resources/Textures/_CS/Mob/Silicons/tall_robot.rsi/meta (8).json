@@ -1,0 +1,323 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekamed",
+            "directions": 4,
+            "delays": [
+                [
+                    6.4,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    6.4,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    6.4,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    6.4,
+                    0.07,
+                    0.07,
+                    0.07
+                ]
+            ]
+        },
+        {
+            "name": "mekamed-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1,
+                    0.7,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1,
+                    0.7,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1,
+                    0.7,
+                    0.07,
+                    0.07,
+                    0.07
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1,
+                    0.7,
+                    0.07,
+                    0.07,
+                    0.07
+                ]
+            ]
+        },
+        {
+            "name": "mekamed-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamed-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamed_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamed_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamed_e_r",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tmed",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed-rest"
+        },
+        {
+            "name": "k4tmed-tipped"
+        },
+        {
+            "name": "k4tmed-wreck"
+        },
+        {
+            "name": "k4tmed_alt1",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_alt1-rest"
+        },
+        {
+            "name": "k4tmed_alt1-tipped"
+        },
+        {
+            "name": "k4tmed_alt1-wreck"
+        },
+        {
+            "name": "k4tmed_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_e_r",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_alt1_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_alt1_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tmed_alt1_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekamed",
+            "directions": 4
+        },
+        {
+            "name": "fmekamed-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekamed-tipped"
+        },
+        {
+            "name": "fmekamed-wreck"
+        },
+        {
+            "name": "fmekamed_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekamed_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekamed_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekamed",
+            "directions": 4
+        },
+        {
+            "name": "mmekamed-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekamed-tipped"
+        },
+        {
+            "name": "mmekamed-wreck"
+        },
+        {
+            "name": "mmekamed_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekamed_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekamed_e_r",
+            "directions": 4
+        }
+    ]
+}

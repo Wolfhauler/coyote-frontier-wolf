@@ -1,0 +1,251 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "credit"
+        },
+        {
+            "name": "ov-opencover \u002Bw",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover -c",
+            "directions": 4
+        },
+        {
+            "name": "ov-opencover \u002Bc",
+            "directions": 4
+        },
+        {
+            "name": "mekamine",
+            "directions": 4
+        },
+        {
+            "name": "mekamine-rest",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamine-tipped",
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamine-wreck",
+            "delays": [
+                [
+                    0.5,
+                    0.1,
+                    0.1,
+                    0.1,
+                    5,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamine_e",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "mekamine_l",
+            "directions": 4,
+            "delays": [
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ],
+                [
+                    5,
+                    0.1,
+                    0.5,
+                    0.1
+                ]
+            ]
+        },
+        {
+            "name": "k4tcredit"
+        },
+        {
+            "name": "k4tmine",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine-rest"
+        },
+        {
+            "name": "k4tmine-tipped"
+        },
+        {
+            "name": "k4tmine-wreck"
+        },
+        {
+            "name": "k4tmine_alt1",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_alt1-rest"
+        },
+        {
+            "name": "k4tmine_alt1-tipped"
+        },
+        {
+            "name": "k4tmine_alt1-wreck"
+        },
+        {
+            "name": "k4tmine_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_e_r",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_alt1_e",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_alt1_l",
+            "directions": 4
+        },
+        {
+            "name": "k4tmine_alt1_e_r",
+            "directions": 4
+        },
+        {
+            "name": "fmekamine",
+            "directions": 4
+        },
+        {
+            "name": "fmekamine-rest",
+            "directions": 4
+        },
+        {
+            "name": "fmekamine-tipped"
+        },
+        {
+            "name": "fmekamine-wreck"
+        },
+        {
+            "name": "fmekamine_e",
+            "directions": 4
+        },
+        {
+            "name": "fmekamine_l",
+            "directions": 4
+        },
+        {
+            "name": "fmekamine_e_r",
+            "directions": 4
+        },
+        {
+            "name": "mmekamine",
+            "directions": 4
+        },
+        {
+            "name": "mmekamine-rest",
+            "directions": 4
+        },
+        {
+            "name": "mmekamine-tipped"
+        },
+        {
+            "name": "mmekamine-wreck"
+        },
+        {
+            "name": "mmekamine_e",
+            "directions": 4
+        },
+        {
+            "name": "mmekamine_l",
+            "directions": 4
+        },
+        {
+            "name": "mmekamine_e_r",
+            "directions": 4
+        }
+    ]
+}
